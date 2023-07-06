@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "292998679773",
+    "project_id": "kisa-logistics",
+    "storage_bucket": "kisa-logistics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292998679773:android:33cf499b68057263abdf34",
+        "android_client_info": {
+          "package_name": "com.example.kisalogistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292998679773-44d66efq3qe4lgi192nf9vlvj1k3trct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisalogistics",
+            "certificate_hash": "65897d1bd81c4005febea15828835ea98a1702af"
+          }
+        },
+        {
+          "client_id": "292998679773-1jbhjk3ubpknk5lkgbpl62lra74i5pbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPsAtpr0tP2qC3GnljmNGxXH3uspun6RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292998679773-1jbhjk3ubpknk5lkgbpl62lra74i5pbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

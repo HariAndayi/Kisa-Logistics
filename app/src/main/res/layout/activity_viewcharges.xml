@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewchargesActivity">
+
+    <ImageView
+        android:layout_width="113dp"
+        android:layout_height="89dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/charges" >
+
+    </ImageView>
+
+    <ImageView
+        android:layout_width="294dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="171dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="120dp"
+        android:src="@drawable/viewtrck"
+        android:layout_marginRight="15dp">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="15sp"
+        android:textStyle="italic"
+        android:layout_marginTop="300dp"
+        android:text="LOAD 20METRES-40METRES = 500$">
+
+    </TextView>
+
+    <ImageView
+        android:layout_width="294dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="171dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="370dp"
+        android:src="@drawable/viewtrck"
+        android:layout_marginRight="15dp">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="15sp"
+        android:textStyle="italic"
+        android:layout_marginTop="550dp"
+        android:text="LOAD ABOVE 40 METRES = 700$ ">
+
+    </TextView>
+
+</RelativeLayout>
